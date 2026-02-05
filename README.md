@@ -1,2 +1,2 @@
 # Gamemaker Platformer
-This is the Platformer Complressed code
+This is the Platformer Compressed code
